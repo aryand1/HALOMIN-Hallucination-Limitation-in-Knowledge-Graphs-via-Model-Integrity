@@ -72,7 +72,7 @@ A big thank you to the open-source community and the developers of BERT, RoBERTa
 
 ---
 
-Made with ❤️ by [Your Name](https://github.com/aryand1)
+Made by [Aryan Singh Dalal](https://github.com/aryand1)
 ```
 
 In this enhanced version:

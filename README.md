@@ -75,7 +75,3 @@ A big thank you to the open-source community and the developers of BERT, RoBERTa
 Made by [Aryan Singh Dalal](https://github.com/aryand1)
 ```
 
-In this enhanced version:
-- More creative and relevant keywords have been added to increase SEO optimization.
-- Additional emojis have been included to make the README visually appealing and engaging.
-- Clear sections and highlights have been added to guide the reader through the content effectively.

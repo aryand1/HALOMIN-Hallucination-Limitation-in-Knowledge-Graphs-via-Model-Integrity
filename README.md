@@ -8,7 +8,7 @@ Welcome to the **Minimize Hallucination** project! This repository is your ultim
 
 ## 🌟 Project Highlights
 
-Natural Language Processing (NLP) models, while incredibly powerful, can sometimes generate content that deviates from factual accuracy, known as "hallucination." This project focuses on minimizing such hallucinations using state-of-the-art techniques and embeddings from models like BERT, RoBERTa, and OpenAI's text-embedding-ada-002.
+Large Language Processing (LLM) models, while incredibly powerful, can sometimes generate content that deviates from factual accuracy, known as "hallucination." This project focuses on minimizing such hallucinations using state-of-the-art techniques and embeddings from models like BERT, RoBERTa, and OpenAI's text-embedding-ada-002.
 
 ## 📂 Repository Contents
 
